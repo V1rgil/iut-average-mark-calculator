@@ -1,11 +1,14 @@
-# Average Calculator
+
+# IUT Average Calculator
+
 Calcule vos moyennes de ressources ainsi que les UEs en proposant une interface moderne et personnalisable.
 
+Ce projet est un **fork** du projet original [RedoverPlayer/average_calculator](https://github.com/RedoverPlayer/average_calculator). Cette version vise à assurer la compatibilité avec d'autres navigateurs (Google Chrome, Firefox, etc.), à corriger des bugs et à proposer des améliorations.
+
 # Installation
-## Via le Chrome Web Store (recommandé)
-https://chrome.google.com/webstore/detail/iut-average-mark-calculat/enmnabdohpdemklhdfahgmlnfacdgcgl
-## Manuellement
-Entrez chrome://extensions dans votre barre d'url.
-Sur GitHub, allez dans Releases et téléchargez la dernière version (l'extension du fichier est .crx).
-Glissez et déposez le fichier dans votre navigateur (dans chrome://extensions).
-Activez le mode développeur dans chrome://extensions si nécessaire
+
+## Google Chrome
+Via le Chrome Web Store : [Installer sur Chrome](https://chrome.google.com/webstore/detail/iut-average-mark-calculat/enmnabdohpdemklhdfahgmlnfacdgcgl)
+
+## Firefox
+Un lien d'installation pour Firefox sera bientôt disponible.
