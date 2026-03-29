@@ -132,7 +132,7 @@ async function main() {
                     moyennes. Vous pouvez vérifier le code source par vous-même via le lien présent ci-dessous.</i>
                 </p>
                 
-                <a class="m-4" href="https://github.com/RedoverPlayer/average_calculator" target="_blank">https://github.com/RedoverPlayer/average_calculator</a>
+                <a class="m-4" href="https://github.com/V1rgil/iut-average-mark-calculator" target="_blank">https://github.com/V1rgil/iut-average-mark-calculator</a>
                 </footer>
 
                 <div class="wait" style="display: none;"></div>
