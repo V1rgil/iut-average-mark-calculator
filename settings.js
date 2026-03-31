@@ -32,6 +32,14 @@ function initListeners() {
         chrome.storage.sync.set({ 'siteUrl': event.target.value });
     };
 
+    // Button to open the entered notes site
+    document.getElementById('goToSiteButton').onclick = event => {
+        let url = document.getElementById('siteUrl').value.trim();
+        if (url) {
+            window.open('https://' + url, '_self');
+        }
+    };
+
     // Theme
     document.getElementById('dark').onchange = () => {
         chrome.storage.sync.set({ theme: 'dark' });
